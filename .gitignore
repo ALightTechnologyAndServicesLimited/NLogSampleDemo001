@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/NLogSampleDemo001/NLogSampleDemo001/bin
+/NLogSampleDemo001/NLogSampleDemo001/obj
